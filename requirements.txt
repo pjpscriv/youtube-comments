@@ -1,0 +1,5 @@
+# pip3 install -r requirements.txt 
+httplib2
+csv
+oauth2client
+google-api-python-client
