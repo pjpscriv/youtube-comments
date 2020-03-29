@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 youtube-comments.py --videoid CV3Bjx-vPTg
